@@ -111,4 +111,3 @@ if __name__ == "__main__":
         menu = Menu(dadata, name_usr, correct_addr, flag)
         menu.output_menu()
         flag = menu.choose_item_from_menu()
-
