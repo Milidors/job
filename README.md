@@ -4,7 +4,7 @@
 ## Установка
 Сначала вы должны _склонировать_ репозиторий.
 <pre class="notranslate">
-<code> https://github.com/Milidors/job.git</code>
+<code> git clone https://github.com/Milidors/job.git</code>
 </pre>
 Далее переходим в него 
 <pre class="notranslate">
